@@ -1,22 +1,35 @@
----
-
-  
----
-
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)<br>
 
-<h1 align="left">Hi...<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px">, I'm CHAMARA </h1>
+<h1 align="left">Hi...<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="70px">, I'm CHAMARA </h1>
 <h3 align="left">Transforming Ideas into Reality with Code || Pushing Boundaries in Engineering and Technology</h3>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p><img align="right" height="350" width="450" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-<br><br>
+<br>
 
----
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />&emsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />&emsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />&emsp;&emsp; 
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="180" height="180" />&emsp;&emsp; 
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  
+</div>
 
----
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />&emsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />&emsp;
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />&emsp;
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />&emsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />&emsp; 
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />&emsp;
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+  
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+also+studying+Computer+Engineering" /></a>
@@ -53,9 +66,12 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="45" height="45" frameBorder="0" class="giphy-embed" allowFullScreen></img> My Statistics:</h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&theme=blue-green">
+<div align="center">
+ 
+![chamarawanasinghe22's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chamarawanasinghe22&theme=midnight-purple)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&theme=midnight-purple">
 </div>
 
 ---
