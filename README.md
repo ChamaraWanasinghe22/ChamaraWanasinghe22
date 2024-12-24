@@ -1,24 +1,3 @@
----
-
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
-
----
-
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamarawanasinghe22&theme=tokyonight" alt="mystreak"/>
-![chamarawanasinghe22's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&theme=tokyonight&layout=compact)
-
----
-
-![chamarawanasinghe22's github stats](https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22&show_icons=true&text_color=D3D3D3&bg_color=0,000000,130F40)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamarawanasinghe22&bg_color=0,000000,130F40" alt="mystreak"/>
-![chamarawanasinghe22's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&text_color=D3D3D3&&bg_color=0,000000,130F40&layout=compact)
-
----
-
-
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)<br>
 
 <h1 align="left">Hi...<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px">, I'm CHAMARA <align="right">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="60"></h1>
@@ -70,16 +49,8 @@
   
 <h3 align="left"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="45" height="45" frameBorder="0" class="giphy-embed" allowFullScreen></img> My Statistics:</h3>
 
----
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chamarawanasinghe22's Github Stats">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=chamarawanasinghe22&theme=Midnight-Blue)](https://git.io/streak-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&theme=midnight-blue">
-</div>
-
----
+![chamarawanasinghe22's github stats](https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22&show_icons=true&text_color=D3D3D3&bg_color=0,000000,130F40)
+![chamarawanasinghe22's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&text_color=D3D3D3&&bg_color=0,000000,130F40&layout=compact)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1020">
 
