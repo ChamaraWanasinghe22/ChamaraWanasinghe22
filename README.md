@@ -1,5 +1,3 @@
-
-
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)<br>
 
 <h1 align="left">Hi...<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px">, I'm CHAMARA <align="right">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" /></h1>
@@ -59,6 +57,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&theme=midnight-purple">
 </div>
 
+---
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1020">
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" height="5%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" height="5%" style="display:inline;">
@@ -71,6 +71,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br></br>
+
 <kbd>
     <kbd>Programming Languages</kbd>
     <br>
@@ -79,7 +81,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/</a>&emsp;
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a>&emsp;
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
-</kbd>
+</kbd>&emsp;
 
 <kbd>
     <kbd>Tools</kbd>
@@ -88,7 +90,7 @@
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&emsp;
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />&emsp;
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-</kbd>
+</kbd>&emsp;
 
 <kbd>
     <kbd>Front-end</kbd>
@@ -98,7 +100,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a>&emsp; 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>&emsp;
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="45" height="45"/> </a>
-</kbd>
+</kbd>&emsp;
 
 <kbd>
     <kbd>Back-end</kbd>
@@ -107,6 +109,8 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a> 
 </kbd>
 
+<br></br>
+
 <kbd>
     <kbd>ML/AI</kbd>
     <br>
@@ -114,26 +118,21 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> </a>&emsp; 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a>&emsp;
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a>
-</kbd>
-
-
-<br>
-
----
+</kbd>&emsp;
 
 <kbd>
     <kbd>Database</kbd>
     <br>
     <br>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a> 
-</kbd>
+</kbd>&emsp;
 
 <kbd>
-    <kbd>Database</kbd>
+    <kbd>Framework</kbd>
     <br>
     <br>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/> </a> 
-</kbd>
+</kbd>&emsp;
 
 <kbd>
     <kbd>Software</kbd>
@@ -145,97 +144,17 @@
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/> </a>     
 </kbd>
 
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br></br>
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45px">&nbsp;Connect with me:</h3>
 
----
-
-<kbd>
-    <kbd>Software</kbd>
-    <br>
-    <br>
-    <a href="chamarawanasinghe808@gmail.com" ><img align="center" alt="Stefanos Stamoulis | Gmail" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />&emsp; 
-</a> &nbsp;     
-</kbd>
-
-<kbd>
-    <kbd>Software</kbd>
-    <br>
-    <br>
-    <a href="https://twitter.com/chamaraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamaraw" height="45" width="45" /></a>&emsp;    
-</kbd>
-
-<kbd>
-    <kbd>Software</kbd>
-    <br>
-    <br>
-    <a href="https://linkedin.com/in/chamara wanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;
-</kbd>
-
-<kbd>
-    <kbd>Software</kbd>
-    <br>
-    <br>
-    <a href="https://fb.com/chamara wanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;   
-</kbd>
-
-<kbd>
-    <kbd>Software</kbd>
-    <br>
-    <br>
-    <a href="https://instagram.com/_chamar.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chamar.a_" height="45" width="45" /></a>&emsp;  
-</kbd>
-
-<kbd>
-    <kbd>Software</kbd>
-    <br>
-    <br>
-    <a href="https://www.hackerrank.com/chamara wanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp; 
-</kbd>
-
----
-
-<table align="left">
-<tr border="none">
-
-<td width="16.66%" align="center">
-<a href="chamarawanasinghe808@gmail.com" >
-  <img align="center" alt="Stefanos Stamoulis | Gmail" width="35px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-</td>
-  
-<td width="16.66%" align="center">
-<a href="https://twitter.com/chamaraw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamaraw" height="45" width="45" /></a>&emsp;
-</td>
-
-<td width="16.66%" align="center">
-<a href="https://linkedin.com/in/chamara wanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;
-</td>
-
-<td width="16.66%" align="center">
-<a href="https://fb.com/chamara wanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;
-</td>
-
-<td width="16.66%" align="center">
-<a href="https://instagram.com/_chamar.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chamar.a_" height="45" width="45" /></a>&emsp;
-</td>
-
-<td width="16.66%" align="center">
-<a href="https://www.hackerrank.com/chamara wanasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;
-</td>
-
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br></br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1020">
+<a href="chamarawanasinghe808@gmail.com" ><img align="left" alt="Stefanos Stamoulis | Gmail" width="45px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />&emsp;&emsp;<a href="https://twitter.com/chamaraw" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chamaraw" height="45" width="45" /></a>&emsp;&emsp;<a href="https://linkedin.com/in/chamara wanasinghe" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;&emsp;<a href="https://fb.com/chamara wanasinghe" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamara wanasinghe" height="45" width="45" /></a>&emsp;&emsp;<a href="https://instagram.com/_chamar.a_" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chamar.a_" height="45" width="45" /></a>&emsp;&emsp;<a href="https://www.hackerrank.com/chamara wanasinghe" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamara wanasinghe" height="45" width="45" /></a>
 
----
+<br></br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee ChamaraWanasinghe22"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee ChamaraWanasinghe22" /></a></p><br><br><br><br><br></br>
