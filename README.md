@@ -52,6 +52,16 @@
 ![chamarawanasinghe22's github stats](https://github-readme-stats.vercel.app/api?username=chamarawanasinghe22&show_icons=true&text_color=D3D3D3&bg_color=0,000000,130F40)
 ![chamarawanasinghe22's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamarawanasinghe22&text_color=D3D3D3&&bg_color=0,000000,130F40&layout=compact)
 
+---
+
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chamarawanasinghe22&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1020">
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" height="5%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="17%" height="5%" style="display:inline;">
